@@ -1,4 +1,5 @@
-**BC QR Code Decoder With Public Keys**
+**BC QR Code Decoder With Public Keys:**
+
 Originally coded in Vue.js
 Refactored into React.js
 
